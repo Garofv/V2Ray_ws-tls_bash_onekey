@@ -991,7 +991,7 @@ menu() {
     echo -e "${Green}5.${Font}  Change alterid"
     echo -e "${Green}6.${Font}  Change port"
     echo -e "${Green}7.${Font}  Change TLS version (only ws+tls works)"
-    echo -e "${Green}18.${Font}  Change the camouflage path"
+    echo -e "${Green}18.${Font} Change the camouflage path"
     echo -e "—————————————— View Information ——————————————"
     echo -e "${Green}8.${Font}  View real-time access logs"
     echo -e "${Green}9.${Font}  View real-time error log"
