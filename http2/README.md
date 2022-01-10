@@ -1,1 +1,1 @@
-### HTTP2 over TLS 配置模板
+### HTTP2 over TLS configuration template
