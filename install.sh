@@ -978,7 +978,7 @@ menu() {
     update_sh
     echo -e "\t V2ray installation management script ${Red}[${shell_version}]${Font}"
     echo -e "\t-------authored by wulabing----------"
-    echo -e "\t      https://github.com/wulabing\n"
+    echo -e "\t   https://github.com/wulabing\n"
     echo -e "Currently installed version:${shell_mode}\n"
 
     echo -e "—————————————— Setup Wizard ——————————————"""
