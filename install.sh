@@ -137,7 +137,7 @@ chrony_install() {
 
     judge "chronyd 启动 "
 
-    timedatectl set-timezone Asia/Shanghai
+    timedatectl set-timezone Asia/Jakarta
 
     echo -e "${OK} ${GreenBG} 等待时间同步 ${Font}"
     sleep 10
