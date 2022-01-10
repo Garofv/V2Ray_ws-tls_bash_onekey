@@ -24,11 +24,11 @@ RedBG="\033[41;37m"
 Font="\033[0m"
 
 #notification information
-# Info="${Green}[信息]${Font}"
+# Info="${Green}[information]${Font}"
 OK="${Green}[OK]${Font}"
 Error="${Red}[错误]${Font}"
 
-# 版本
+# Version
 shell_version="1.1.9.0"
 shell_mode="None"
 github_branch="master"
@@ -977,8 +977,8 @@ modify_camouflage_path() {
 menu() {
     update_sh
     echo -e "\t V2ray installation management script ${Red}[${shell_version}]${Font}"
-    echo -e "\t---authored by wulabing---"
-    echo -e "\thttps://github.com/wulabing\n"
+    echo -e "\t-------authored by wulabing----------"
+    echo -e "\t----https://github.com/wulabing\n----"
     echo -e "Currently installed version:${shell_mode}\n"
 
     echo -e "—————————————— Setup Wizard ——————————————"""
